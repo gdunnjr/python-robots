@@ -1,0 +1,16 @@
+- Get Enemies
+
+- Get Spots I can move to
+
+--------------------------
+
+1. If hc <=15 and enemy around then 
+		call su
+			
+2. If hc > 50 attack robots nearby
+
+3. If hc > 15 and <=50 then flee
+	- move to open spot
+
+	
+
